@@ -19,7 +19,7 @@
     "@angular/platform-browser": "~8.2.14",
     "@angular/platform-browser-dynamic": "~8.2.14",
     "@angular/router": "~8.2.14",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "net": "^1.0.2",
     "rxjs": "~6.5.3",
     "sockjs-client": "^1.4.0",
